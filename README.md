@@ -1,6 +1,6 @@
 ## Snow Kitsune 
 
-<img src = "placeholder">
+<img src = "./images/furina-hydro-character">
 
 <p> Hello to you all 
   
