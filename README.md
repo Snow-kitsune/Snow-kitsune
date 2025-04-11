@@ -111,21 +111,16 @@
 <p align="center" >
 <img alt="Satoru Gojo VS. Ryomen Sukuna" src = "./images/gojo_versus_sukuna.gif" height = auto width = 250 />
 </p>
-<div class="title-line">
-    <span class="emoji">🌌</span>
-    <span class="gradient-text"> JUJUTSU KAISEN </span>
-    <span class="emoji">⛩️</span>
-</div>
+<p align="center">
+<img alt="Jujutsu Kaisen" src = "./images/jujutsu_kaisen_title.png" height = auto width = auto />
+</p>
 
 <p align="center" >
 <img alt="Alya Mikhailovna" src = "./images/alya_san_embarrassed.gif" height = auto width = 250 />
 </p>
-
-<div class="title-line">
-    <span class="emoji">💢</span>
-    <span class="gradient-text-two"> RUSSIA-GO NO ALYA-SAN </span>
-    <span class="emoji">😳</span>
-</div>
+<p align="center" >
+<img alt="Roshidere no Alya-San" src = "./images/roshidere_title.png" height = auto width = auto />
+</p>
 
 <p align="center" >
 <img alt="Sung Jin Woo" src = "./images/solo-leveling-arise.gif" height = auto width = 250 />
