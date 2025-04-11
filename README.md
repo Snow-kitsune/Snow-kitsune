@@ -1,8 +1,12 @@
+<head>
+
 <img alt = "Zani chibi" src = "./images/zani_badge.jpg" height = auto width = 80 align=right>
 
 <br> 
 
 <link rel="stylesheet" href="style.css" >
+
+</head>
 
 ## Snow Kitsune
 
