@@ -35,3 +35,7 @@
 
 <img alt="python" src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <p> PYTHON </p>
+
+<h2> GAMES I PLAY </h2>
+
+<p> GENSHIN IMPACT </p>
