@@ -126,31 +126,25 @@
 <img alt="Sung Jin Woo" src = "./images/solo-leveling-arise.gif" height = auto width = 250 />
 </p>
 
-<div class="title-line">
-    <span class="emoji">😎</span>
-    <span class="gradient-text-three"> SOLO LEVELLING </span>
-    <span class="emoji">🧙</span>
-</div>
+<p align="center" >
+<img alt="Solo Leveling" src = "./images/solo_levelling_title.png" height = auto width = 500 />
+</p>
 
 <p align="center" >
 <img alt="Arthur Leywin" src = "./images/tbate_arthur.gif" height = auto width = 250 />
 </p>
 
-<div class="title-line">
-    <span class="emoji">🐉</span>
-    <span class="gradient-text-four"> THE BEGINNING AFTER THE END </span>
-    <span class="emoji">👑</span>
-</div>
+<p align="center">
+<img alt="The Beginning After The End" src = "./images/tbate_title.png" height = 75 width = 600 />
+</p>
 
 <p align="center">
   <img alt="Isagi Yoichi" src="./images/isagi_evolving.gif" height="auto" width="250" />
 </p>
 
-<div class="title-line">
-  <span class="emoji">🥅</span>
-  <span class="gradient-text-five">BLUE LOCK</span>
-  <span class="emoji">⚽</span>
-</div>
+<p align="center">
+  <img alt="Blue Lock" src="./images/blue_lock_title.png" height="auto" width="375" />
+</p>
 
 <h2> BEST WAIFUS </h2>
 
