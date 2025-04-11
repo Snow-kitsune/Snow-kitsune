@@ -1,4 +1,8 @@
-## Snow Kitsune 
+<img alt = "Zani chibi" src = "./images/zani_badge.jpg" height = auto width = 80 align=right>
+
+<br> 
+
+## Snow Kitsune
 
 <p align="center">
 <img src = "./images/furina_image.jpg" height = auto width = 300px alt = "This is my favourite character">
@@ -52,15 +56,18 @@
 
 <p> GENSHIN IMPACT </p>
 <p align="center" >
-<img class = "furina_chibi_image" alt="Chibi Furina" src = "./images/furina_badge.jpg" height = auto width = 80 />
+<img alt="Chibi Furina" src = "./images/furina_badge.jpg" height = auto width = 100 />
 </p>
 
 <p> HONKAI STAR RAIL </p>
-/* Insert Feixiao picture here */
+<p align="center" >
+<img alt="Chibi Feixiao" src = "./images/feixiao_badge.jpg" height = auto width = 80 />
+</p>
 
 <p> WUTHERING WAVES </p>
-/* Insert Zani picture here */
-
+<p align="center" >
+<img alt="Chibi Zani" src = "./images/zani_badge_two.jpg" height = auto width = 150 />
+</p>
 <p> DEVIL MAY CRY 5 </p>
 /* Insert Vergil meme pic here */
 
