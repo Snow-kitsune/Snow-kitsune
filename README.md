@@ -16,7 +16,7 @@
 <img src="./images/brazil-and-canada-flag.jpg" height="auto" width="150" alt="Canadian and Brazilian flag together" style="float: right; margin-left: 20px;">
 
 <p>Brazilian</p>
-<p>Computer Scientist</p>
+<p>Amateur Computer Scientist</p>
 <p>Linguistic Nerd</p>
 <p>Paleontology Nerd</p>
 <p>Living in Canada</p>
@@ -262,5 +262,18 @@
 
 <h2> BEST WAIFUS </h2>
 
+<p> ALISA MIKHAILOVNA KUJOU </p>
+
+<p> FURINA DE FONTAINE </p>
+
+<p> FEIXIAO </p>
+
+<p> CHIORI </p>
+
+<p> SKIRK </p>
+
+<p> ZANI </p>
+
+<p> JINHSI </p>
 <h1> THANK YOU, AND HAVE A GREAT LIFE 😊</h1>
 
