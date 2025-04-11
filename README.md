@@ -69,16 +69,24 @@
 <img alt="Chibi Zani" src = "./images/zani_badge_two.jpg" height = auto width = 150 />
 </p>
 <p> DEVIL MAY CRY 5 </p>
-/* Insert Vergil meme pic here */
+<p align="center" >
+<img alt="Vergil being the best" src = "./images/vergil_badass.gif" height = auto width = 150 />
+</p>
 
 <p> MINECRAFT </p>
-/* Viniccius 13 pic here */
+<p align="center" >
+<img alt="Viniccius13 sendo o Deus da Redstone" src = "./images/vinicao_rei.jpg" height = auto width = 100 />
+</p>
 
 <p> JURASSIC PARK SURVIVAL </p>
-/* Get T-Rex shot with MC here */
+<p align="center" >
+<img alt="Rexy being the Queen of Jurassic Park" src = "./images/rexy_queen.jpg" height = auto width = 150 />
+</p>
 
 <p> FIVE NIGHTS AT FREDDY'S FRANCHISE </p>
-/* Animatronics get a bit quirky at night pic here */
+<p align="center" >
+<img alt="The animatronics here do get a bit quirky at night" src = "./images/fnaf-meme.gif" height = auto width = 150 />
+</p>
 
 <h2> FAVOURITE MOVIES </h2>
 
@@ -91,6 +99,168 @@
 <p> HOW TO TRAIN YOUR DRAGON FRANCHISE </p>
 
 <p> THE SHAWSHANK REDEMPTION </p>
+
+<h2> FAVOURITE MANGAS </h2>
+                                 
+<style>
+    .gradient-text {
+      background: linear-gradient(90deg, #6e44ff, #9fffff, #ff0055);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      font-size: 40px;
+      font-weight: bold;
+      font-family: 'Arial', sans-serif;
+      display: inline;
+    }
+
+    .emoji {
+      font-size: 40px;
+      vertical-align: middle;
+    }
+
+    .title-line {
+      text-align: center;
+      padding: 20px;
+    }
+</style>
+<p align="center" >
+<img alt="Satoru Gojo VS. Ryomen Sukuna" src = "./images/gojo_versus_sukuna.gif" height = auto width = 250 />
+</p>
+<div class="title-line">
+    <span class="emoji">🌌</span>
+    <span class="gradient-text"> JUJUTSU KAISEN </span>
+    <span class="emoji">⛩️</span>
+</div>
+
+<style>
+    .gradient-text-two {
+      background: linear-gradient(90deg, #ffffff, #ff0055, #ffffff, #ff0055, #ffffff);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      font-size: 40px;
+      font-weight: bold;
+      font-family: 'Arial', sans-serif;
+      display: inline;
+    }
+
+    .emoji {
+      font-size: 40px;
+      vertical-align: middle;
+    }
+
+    .title-line {
+      text-align: center;
+      padding: 20px;
+    }
+</style>
+
+<p align="center" >
+<img alt="Alya Mikhailovna" src = "./images/alya_san_embarrassed.gif" height = auto width = 250 />
+</p>
+
+<div class="title-line">
+    <span class="emoji">💢</span>
+    <span class="gradient-text-two"> RUSSIA-GO NO ALYA-SAN </span>
+    <span class="emoji">😳</span>
+</div>
+
+<style>
+    .gradient-text-three {
+      background: linear-gradient(90deg,rgb(85, 10, 223),rgb(31, 10, 223), #ffffff,rgb(31, 10, 223),rgb(85, 10, 223));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      font-size: 40px;
+      font-weight: bold;
+      font-family: 'Arial', sans-serif;
+      display: inline;
+    }
+
+    .emoji {
+      font-size: 40px;
+      vertical-align: middle;
+    }
+
+    .title-line {
+      text-align: center;
+      padding: 20px;
+    }
+</style>
+
+<p align="center" >
+<img alt="Sung Jin Woo" src = "./images/solo-leveling-arise.gif" height = auto width = 250 />
+</p>
+
+<div class="title-line">
+    <span class="emoji">😎</span>
+    <span class="gradient-text-three"> SOLO LEVELLING </span>
+    <span class="emoji">🧙</span>
+</div>
+
+<style>
+    .gradient-text-four {
+      background: linear-gradient(90deg, #ffffff,rgb(255, 114, 20),rgb(10, 158, 47), #ffffff,rgb(10, 158, 47),rgb(255, 114, 20), #ffffff);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      font-size: 40px;
+      font-weight: bold;
+      font-family: 'Arial', sans-serif;
+      display: inline;
+    }
+
+    .emoji {
+      font-size: 40px;
+      vertical-align: middle;
+    }
+
+    .title-line {
+      text-align: center;
+      padding: 20px;
+    }
+</style>
+
+<p align="center" >
+<img alt="Arthur Leywin" src = "./images/tbate_arthur.gif" height = auto width = 250 />
+</p>
+
+<div class="title-line">
+    <span class="emoji">🐉</span>
+    <span class="gradient-text-four"> THE BEGINNING AFTER THE END </span>
+    <span class="emoji">👑</span>
+</div>
+
+<style>
+    .gradient-text-five {
+      background: linear-gradient(90deg, rgb(15, 240, 26), rgb(9, 131, 231), #ffffff, #ffffff, rgb(9, 131, 231), rgb(15, 240, 26));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      font-size: 40px;
+      font-weight: bold;
+      font-family: 'Arial', sans-serif;
+      display: inline;
+    }
+
+    .emoji {
+      font-size: 40px;
+      vertical-align: middle;
+    }
+
+    .title-line {
+      text-align: center;
+      padding: 20px;
+    }
+</style>
+
+<p align="center">
+  <img alt="Isagi Yoichi" src="./images/isagi_evolving.gif" height="auto" width="250" />
+</p>
+
+<div class="title-line">
+  <span class="emoji">🥅</span>
+  <span class="gradient-text-five">BLUE LOCK</span>
+  <span class="emoji">⚽</span>
+</div>
+
+<h2> BEST WAIFUS </h2>
 
 <h1> THANK YOU, AND HAVE A GREAT LIFE 😊</h1>
 
