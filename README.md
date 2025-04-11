@@ -78,15 +78,25 @@
 <img alt="Viniccius13 sendo o Deus da Redstone" src = "./images/vinicao_rei.jpg" height = auto width = 100 />
 </p>
 
-<p> JURASSIC PARK SURVIVAL </p>
+<br>
+<br>
+<br>
+<br>
+
 <p align="center" >
-<img alt="Rexy being the Queen of Jurassic Park" src = "./images/rexy_queen.jpg" height = auto width = 150 />
+<img alt="JURASSIC PARK SURVIVAL" src = "./images/jurassic_park_survival_title.png" height = auto width = 250  />
 </p>
 
-<p> FIVE NIGHTS AT FREDDY'S FRANCHISE </p>
+<br>
+<br>
+<br>
+<br>
+
 <p align="center" >
-<img alt="The animatronics here do get a bit quirky at night" src = "./images/fnaf-meme.gif" height = auto width = 150 />
+<img alt="FIVE NIGHTS AT FREEDY'S" src = "./images/fnaf_title.png" height = auto width = 250 />
 </p>
+
+<br>
 
 <h2> FAVOURITE MOVIES </h2>
 
