@@ -51,7 +51,9 @@
 <h2> FAVOURITE GAMES </h2>
 
 <p> GENSHIN IMPACT </p>
-/* Insert Furina picture here */
+<p align="center" >
+<img class = "furina_chibi_image" alt="Chibi Furina" src = "./images/furina_badge.jpg" height = auto width = 80 />
+</p>
 
 <p> HONKAI STAR RAIL </p>
 /* Insert Feixiao picture here */
