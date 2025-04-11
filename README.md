@@ -104,30 +104,6 @@
 
 <h2> FAVOURITE MANGAS </h2>
 
-<!--                                 
-<style>
-    .gradient-text {
-      background: linear-gradient(90deg, #6e44ff, #9fffff, #ff0055);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      font-size: 40px;
-      font-weight: bold;
-      font-family: 'Arial', sans-serif;
-      display: inline;
-    }
-
-    .emoji {
-      font-size: 40px;
-      vertical-align: middle;
-    }
-
-    .title-line {
-      text-align: center;
-      padding: 20px;
-    }
-</style>
--->
-
 <p align="center" >
 <img alt="Satoru Gojo VS. Ryomen Sukuna" src = "./images/gojo_versus_sukuna.gif" height = auto width = 250 />
 </p>
@@ -136,30 +112,6 @@
     <span class="gradient-text"> JUJUTSU KAISEN </span>
     <span class="emoji">⛩️</span>
 </div>
-
-<!--
-<style>
-    .gradient-text-two {
-      background: linear-gradient(90deg, #ffffff, #ff0055, #ffffff, #ff0055, #ffffff);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      font-size: 40px;
-      font-weight: bold;
-      font-family: 'Arial', sans-serif;
-      display: inline;
-    }
-
-    .emoji {
-      font-size: 40px;
-      vertical-align: middle;
-    }
-
-    .title-line {
-      text-align: center;
-      padding: 20px;
-    }
-</style>
--->
 
 <p align="center" >
 <img alt="Alya Mikhailovna" src = "./images/alya_san_embarrassed.gif" height = auto width = 250 />
@@ -171,30 +123,6 @@
     <span class="emoji">😳</span>
 </div>
 
-<!--
-<style>
-    .gradient-text-three {
-      background: linear-gradient(90deg,rgb(85, 10, 223),rgb(31, 10, 223), #ffffff,rgb(31, 10, 223),rgb(85, 10, 223));
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      font-size: 40px;
-      font-weight: bold;
-      font-family: 'Arial', sans-serif;
-      display: inline;
-    }
-
-    .emoji {
-      font-size: 40px;
-      vertical-align: middle;
-    }
-
-    .title-line {
-      text-align: center;
-      padding: 20px;
-    }
-</style>
--->
-
 <p align="center" >
 <img alt="Sung Jin Woo" src = "./images/solo-leveling-arise.gif" height = auto width = 250 />
 </p>
@@ -205,30 +133,6 @@
     <span class="emoji">🧙</span>
 </div>
 
-<!--
-<style>
-    .gradient-text-four {
-      background: linear-gradient(90deg, #ffffff,rgb(255, 114, 20),rgb(10, 158, 47), #ffffff,rgb(10, 158, 47),rgb(255, 114, 20), #ffffff);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      font-size: 40px;
-      font-weight: bold;
-      font-family: 'Arial', sans-serif;
-      display: inline;
-    }
-
-    .emoji {
-      font-size: 40px;
-      vertical-align: middle;
-    }
-
-    .title-line {
-      text-align: center;
-      padding: 20px;
-    }
-</style>
--->
-
 <p align="center" >
 <img alt="Arthur Leywin" src = "./images/tbate_arthur.gif" height = auto width = 250 />
 </p>
@@ -238,30 +142,6 @@
     <span class="gradient-text-four"> THE BEGINNING AFTER THE END </span>
     <span class="emoji">👑</span>
 </div>
-
-<!--
-<style>
-    .gradient-text-five {
-      background: linear-gradient(90deg, rgb(15, 240, 26), rgb(9, 131, 231), #ffffff, #ffffff, rgb(9, 131, 231), rgb(15, 240, 26));
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      font-size: 40px;
-      font-weight: bold;
-      font-family: 'Arial', sans-serif;
-      display: inline;
-    }
-
-    .emoji {
-      font-size: 40px;
-      vertical-align: middle;
-    }
-
-    .title-line {
-      text-align: center;
-      padding: 20px;
-    }
-</style> 
--->
 
 <p align="center">
   <img alt="Isagi Yoichi" src="./images/isagi_evolving.gif" height="auto" width="250" />
