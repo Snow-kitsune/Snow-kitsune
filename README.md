@@ -2,6 +2,8 @@
 
 <br> 
 
+<link rel="stylesheet" href="style.css" >
+
 ## Snow Kitsune
 
 <p align="center">
@@ -101,7 +103,8 @@
 <p> THE SHAWSHANK REDEMPTION </p>
 
 <h2> FAVOURITE MANGAS </h2>
-                                 
+
+<!--                                 
 <style>
     .gradient-text {
       background: linear-gradient(90deg, #6e44ff, #9fffff, #ff0055);
@@ -123,6 +126,8 @@
       padding: 20px;
     }
 </style>
+-->
+
 <p align="center" >
 <img alt="Satoru Gojo VS. Ryomen Sukuna" src = "./images/gojo_versus_sukuna.gif" height = auto width = 250 />
 </p>
@@ -132,6 +137,7 @@
     <span class="emoji">⛩️</span>
 </div>
 
+<!--
 <style>
     .gradient-text-two {
       background: linear-gradient(90deg, #ffffff, #ff0055, #ffffff, #ff0055, #ffffff);
@@ -153,6 +159,7 @@
       padding: 20px;
     }
 </style>
+-->
 
 <p align="center" >
 <img alt="Alya Mikhailovna" src = "./images/alya_san_embarrassed.gif" height = auto width = 250 />
@@ -164,6 +171,7 @@
     <span class="emoji">😳</span>
 </div>
 
+<!--
 <style>
     .gradient-text-three {
       background: linear-gradient(90deg,rgb(85, 10, 223),rgb(31, 10, 223), #ffffff,rgb(31, 10, 223),rgb(85, 10, 223));
@@ -185,6 +193,7 @@
       padding: 20px;
     }
 </style>
+-->
 
 <p align="center" >
 <img alt="Sung Jin Woo" src = "./images/solo-leveling-arise.gif" height = auto width = 250 />
@@ -196,6 +205,7 @@
     <span class="emoji">🧙</span>
 </div>
 
+<!--
 <style>
     .gradient-text-four {
       background: linear-gradient(90deg, #ffffff,rgb(255, 114, 20),rgb(10, 158, 47), #ffffff,rgb(10, 158, 47),rgb(255, 114, 20), #ffffff);
@@ -217,6 +227,7 @@
       padding: 20px;
     }
 </style>
+-->
 
 <p align="center" >
 <img alt="Arthur Leywin" src = "./images/tbate_arthur.gif" height = auto width = 250 />
@@ -228,6 +239,7 @@
     <span class="emoji">👑</span>
 </div>
 
+<!--
 <style>
     .gradient-text-five {
       background: linear-gradient(90deg, rgb(15, 240, 26), rgb(9, 131, 231), #ffffff, #ffffff, rgb(9, 131, 231), rgb(15, 240, 26));
@@ -248,7 +260,8 @@
       text-align: center;
       padding: 20px;
     }
-</style>
+</style> 
+-->
 
 <p align="center">
   <img alt="Isagi Yoichi" src="./images/isagi_evolving.gif" height="auto" width="250" />

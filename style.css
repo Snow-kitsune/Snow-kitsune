@@ -1,0 +1,59 @@
+.gradient-text {
+    background: linear-gradient(90deg, #6e44ff, #9fffff, #ff0055);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Arial', sans-serif;
+    display: inline;
+  }
+
+.gradient-text-two {
+    background: linear-gradient(90deg, #ffffff, #ff0055, #ffffff, #ff0055, #ffffff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Arial', sans-serif;
+    display: inline;
+  }
+
+.gradient-text-three {
+    background: linear-gradient(90deg,rgb(85, 10, 223),rgb(31, 10, 223), #ffffff,rgb(31, 10, 223),rgb(85, 10, 223));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Arial', sans-serif;
+    display: inline;
+  }
+
+.gradient-text-four {
+    background: linear-gradient(90deg, #ffffff,rgb(255, 114, 20),rgb(10, 158, 47), #ffffff,rgb(10, 158, 47),rgb(255, 114, 20), #ffffff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Arial', sans-serif;
+    display: inline;
+  }
+
+.gradient-text-five {
+    background: linear-gradient(90deg, rgb(15, 240, 26), rgb(9, 131, 231), #ffffff, #ffffff, rgb(9, 131, 231), rgb(15, 240, 26));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Arial', sans-serif;
+    display: inline;
+  }
+
+.emoji {
+    font-size: 40px;
+    vertical-align: middle;
+  }
+
+.title-line {
+    text-align: center;
+    padding: 20px;
+  }
