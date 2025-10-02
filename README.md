@@ -150,6 +150,10 @@
   <img alt="Blue Lock" src="./images/blue_lock_title.png" height="auto" width="375" />
 </p>
 
+<p align="center">
+  <img alt="Naruto" src="./images/naruto.gif" height="auto" width=250>
+</p>
+
 <h2> BEST WAIFUS </h2>
 
 <p> ALISA MIKHAILOVNA KUJOU </p>
