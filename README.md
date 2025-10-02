@@ -13,6 +13,8 @@
 
 <h2> ABOUT ME </h2>
 
+<p> Yo, wassup? I am a goodfy guy
+
 <br>
 
 <h2> PROGRAMMING LANGUAGES </h2>
